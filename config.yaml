@@ -1,0 +1,3 @@
+sourceDirectory: /home/sastsy/backupdaemon/directory
+backupDirectory: /home/sastsy/backupdaemon/backup_directory
+frequency: minutely
